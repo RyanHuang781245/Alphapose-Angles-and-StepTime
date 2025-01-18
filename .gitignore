@@ -55,7 +55,8 @@ coverage.xml
 # optput files and test.ipynb
 *.mp4
 *.csv
-*.ipynb
+step2video_bk.ipynb
+test.ipynb
 examples/
 
 # Django stuff:
